@@ -2,7 +2,7 @@
 
 **Course:** ICS-344: Information Security — Section 02  
 **University:** King Fahd University of Petroleum and Minerals (KFUPM)  
-**Term:** 252 (Spring 2026)  
+**Term:** 252 
 **AWS Region:** `us-east-1` (US East — N. Virginia)
 
 ---
